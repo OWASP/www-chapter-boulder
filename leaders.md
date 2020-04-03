@@ -1,3 +1,6 @@
 ### Leaders
 
-* [Mark Major](mailto:mark.major@owasp.org)
+* [Steve Kosten](mailto:steve.kosten@owasp.org)
+* [Aaron Cure](mailto:aaron.cure@owasp.org)
+* [Rob Jepson](mailto:rob.jepson@owasp.org)
+
