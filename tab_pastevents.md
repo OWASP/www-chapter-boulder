@@ -12,7 +12,7 @@ tags: Boulder
 ## Past Events
 <hr>
 
-**2020 April:  [Download presentation](/presentations/April2020-Boulder-Honeypot.pdf) **
+**2020 April:  [Download presentation](zz_presentations_2020_04.pdf) **
 
 **You got Honey in my Web App** <br>
 Let's face it, attackers seem to be holding all the advantages... but it doesn't have to be that way... With a little bit of creativity and understanding of how attackers actually do what they do, you can mount an effective defense that will leave your attackers openly weeping wondering where it all went wrong. Turns out... it was when they mistakenly started gunning for your web apps. Attendees of this talk will learn about how each layer of a web app stack can be made into the attackers' worst nightmare.
