@@ -6,6 +6,7 @@ site_side: true
 tags: Boulder
 level: 3
 region: North America
+altfooter: true
 
 ---
 OWASP Boulder
