@@ -6,6 +6,7 @@ layout: null
 tab: true
 order: 2
 tags: Boulder
+altfooter: true
 
 ---
 
