@@ -12,7 +12,9 @@ altfooter: true
 
 ## Past Events
 <hr>
-**2020 June:  [Download presentation](zz_presentations_2020_06.pdf) **
+
+**2020 June:  [Download presentation](zz_presentations_2020_06.pdf)**
+
 **How to Build Awesome Security Instrumentation to Automate AppSec Testing and Protection** <br>
 >Modern software demands velocity, and traditional “outside in” scanning and firewalling are creating bottlenecks and slowing things down. In this talk, Jeff will approach application security from the “inside out”. We will show you how to create simple agents that get inside a running application (like a profiler or debugger) and give you access to everything you might want to know. We’ll demonstrate real agents that identify vulnerabilities without changing any code, scanning, or extra steps. We’ll identify vulnerabilities, analyze access control, and even prevent RCE attacks. Unlike scanning and firewalling, this approach establishes a safe and powerful way for development, security, and operations teams to collaborate. We’ll discuss how software security instrumentation works, how it’s being used in many organizations, and the implications for the practice of application security.
 
