@@ -28,7 +28,7 @@ The chapter board is
 
 Next Meeting/Event(s)
 ---------------------
-### Wednesday June 17th at 5:30 PM (Virtual Meeting)
+### Wednesday July 15th at 5:30 PM (Virtual Meeting)
 
 **Location:** 
 <a href="https://zoom.us/j/514365407?pwd=VUdmS1UxVXVMZU12aFFTVmNqaTB4Zz09" target="_blank">Zoom Meeting</a>
