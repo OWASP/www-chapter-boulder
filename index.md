@@ -7,6 +7,9 @@ tags: Boulder
 level: 3
 region: North America
 altfooter: true
+meetup-group: OWASP-Boulder
+country: USA
+postal-code: 80302
 
 ---
 
