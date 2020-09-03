@@ -60,7 +60,7 @@ By attending this session, you will take away:
 >Kacey Clark is a Threat Researcher at Digital Shadows, primarily exploring the ever-evolving developments in the information security space. She earned her Bachelor of Science degree in Psychology with a minor in Criminology from University of Texas at Dallas, which serves as her foundation while tracking threat actors and identifying cyber adversary motivations. Kacey is a proponent for women in STEM and is passionate about data privacy, open-source intelligence, and security awareness.
 
 
-Want to Present at OWASP Denver Chapter Events??
+Want to Present at OWASP Boulder Chapter Events??
 --------------------------------------------
 Just email the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail.  
 
