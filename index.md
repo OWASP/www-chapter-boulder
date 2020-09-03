@@ -6,8 +6,13 @@ site_side: true
 tags: Boulder
 level: 3
 region: North America
+altfooter: true
+meetup-group: OWASP-Boulder
+country: USA
+postal-code: 80302
 
 ---
+
 OWASP Boulder
 -----------------
 Welcome to the OWASP Boulder chapter homepage!!
@@ -27,6 +32,7 @@ The chapter board is
 
 Next Meeting/Event(s)
 ---------------------
+
 ### Wednesday September 16th at 5:30 PM (Virtual Meeting)
 
 **Location:** 
@@ -37,6 +43,7 @@ Meeting ID: RSVP on our <a href="https://www.meetup.com/OWASP-Denver" target="_b
 
 
 **Time: 5:30 PM - 7:00 PM**
+
 
 **Account Takeover: Data Findings, Popular Tools, and Prevalent Actors** <br>
 In our latest account takeover (ATO) findings, we have observed a significant increase in credentials listed on the deep and dark web (15 billion and counting), tools that enable account takeover, and account takeover service advertisements on criminal marketplaces. This presentation highlights the sheer volume of account takeover, how ATO can impact your organization, and mitigation recommendations to keep your credentials safe.
