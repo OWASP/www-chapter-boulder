@@ -27,20 +27,20 @@ appropriate security baked in, just in time, rather than bolted on as an
 afterthought. Bigger, better, and with real examples. Help us improve
 patterns to improve software security.
 
->Speaker: Joe Gerber
+>**Speaker: Joe Gerber**
 Joe Gerber is a Secure Software Architect and Secure Software Design
 practice lead with 10+ years of secure software design experience. He is
 also a recovering senior web developer and former embedded systems
 programmer. He deeply desires to use patterns to truly make secure software development a repeatable phenomenon.
 
-He has previously presented at:
+>He has previously presented at:
 - RMISC 2018
 - SnowFroc 2018
 - Three OWASP Chapter meetings
 - Local community IT professional groups
 - Lead App Sec presenter at quarterly classes held by my employer
 
-He was a volunteer at Defcon’s inaugural App Sec Village
+>He was a volunteer at Defcon’s inaugural App Sec Village
 
 
 ===================================================================================
