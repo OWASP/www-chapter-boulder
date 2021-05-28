@@ -14,6 +14,34 @@ altfooter: true
 <hr>
 
 ===================================================================================
+**2021 May: [Download presentation](zz_presentations_2021_05.pdf)**
+
+**Scale Your Security by Embracing Secure Defaults & Eliminating Bug Classes** <br>
+>We’re in the middle of a significant shift in how security teams operate and prioritize their limited budget and person-time. Historically, as an industry, we’ve focused on building tools to identify vulnerabilities. While we’ve built impressive tools, these approaches have failed to address the challenges of modern engineering teams. Specifically, these tools often are too slow, require a prohibitive amount of security engineer time and domain expertise to tune, overwhelm users with false positives, and most importantly, do not ultimately raise a company’s security bar. But there’s another way. Rather than investing in finding more bugs, some modern security teams are instead focusing on providing developers with frameworks and services with secure defaults (“guard rails”) so that developers can build features quickly and securely. When done correctly, combining secure defaults and lightweight checks that enforce invariants (properties that must always hold), organizations can solve *classes* of vulnerabilities by construction, preventing bug whack-a-mole. In this talk, we’ll present a practical step-by-step methodology for:
+
+Choosing what to focus your AppSec resources on
+
+How to combine secure defaults + lightweight invariant enforcement to eradicate entire vulnerability classes
+
+How to integrate continuous code scanning into your CI/CD processes in a way that’s fast, high signal, and low friction for developers
+
+How to use an open source, lightweight security linting tool to find bugs and anti-patterns specific to your company
+
+>**Speaker: Adam Berman**
+>Adam Berman is lead product engineer for r2c. In this role, he focuses on building and scaling the semgrep application in order to make it intuitive, easy to use, and reliable. Previous to r2c, Adam led the engineering team for Meraki Insight at Cisco Meraki, using ML and AI techniques to identify and solve performance problems in networked applications. Adam holds an MS in Computer Science from the Georgia Institute of Technology and a BA in Philosophy from Dickinson College.
+
+===================================================================================
+**2021 April**
+
+**Password Craziness and Authentication: Presentation/Discussion** <br>
+>Aaron and Steve will do a presentation focused on our authentication nemesis: passwords. It's been a long ugly haul that we've been dealing with these beasts and they are still the predominant way we authenticate. Password guidelines change and we struggle with what is best; that users will do .... well. It's not easy. So Aaron and Steve will present but also lead a discussion on this. What is everyone else doing and what is best?
+
+>**Speaker: Aaron Cure and Steve Kosten**
+>Aaron is a principal security consultant for Cypress Data Defense where he does penetration testing, secure SDLC, static code review, and secure architecture work. He started out in the U.S. Army, spending 10 years as a Russian linguist and satellite repair technician. He then worked as a database administrator and programmer on the Iridium project, with subsequent positions as a telecommunications consultant, senior programmer, and security consultant. Aaron began his infosec career in 2006 expanding his expertise to developing security tools and performing secure code reviews, vulnerability assessments, penetration testing, risk assessments, static source code analysis, and security research. A SANS instructor since 2013 he currently teaches SANS SEC542: Web App Penetration Testing and Ethical Hacking.
+
+>Steve Kosten is Managing Director at Cypress Data Defense performing secure code reviews across multiple languages, web app and mobile penetration testing, vulnerability assessment and risk management, and helping clients create and grow a secure development lifecycle, working in sectors such as insurance, finance, real estate, transportation, and many more. He previously performed security work in the defense and financial sectors as well as non-profit and headed up the security department for a financial services firm. Steve has been teaching for SANS since 2013 and currently can be found teaching SANS SEC545: Cloud Security Architecture and Operations.
+
+===================================================================================
 **2021 February: [Download presentation](zz_presentations_2021_02.pdf)**
 
 **You Don't Have to Be Crazy to Work Here** <br>
