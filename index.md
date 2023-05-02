@@ -26,9 +26,10 @@ Join us on our [Slack Channel](https://join.slack.com/t/boulder-owasp/shared_inv
 
 The chapter board is 
 
-* [Steve Kosten (Chapter President)](mailto:steve.kosten@owasp.org)
+* [Tee Cure (Chapter President)](mailto:tamara.cure@owasp.org)
+* [Lilli Chang (Chapter Vice President)](mailto:lilli.chang@owasp.org)
 * [Aaron Cure (Board Member)](mailto:aaron.cure@owasp.org)
-* [Rob Jepson (Board Member)](mailto:rob.jepson@owasp.org )
+* [Steve Kosten (Board Member)](mailto:steve.kosten@owasp.org)
 
 
 ### Check our Upcoming Meetup Events:
