@@ -20,7 +20,7 @@ Welcome to the OWASP Boulder chapter homepage!!
 
 ***EVERYONE*** is welcome to attend our regular meetings, whether CSO, Developer, QA Engineer, Project Manager, ....  whoever, welcome.  We are dedicated to vendor neutral presentations that raise the security awareness of all attendees.  Come join us!
 
-Follow chapter news on [Meetup](https://www.meetup.com/OWASP-Boulder/) 
+Follow chapter news on [Meetup](https://www.meetup.com/OWASP-Boulder/) and [LinkedIn](https://www.linkedin.com/company/owasp-boulder)
 
 Join us on our [Slack Channel](https://join.slack.com/t/boulder-owasp/shared_invite/zt-d7noxlsj-TgOFn6ASwt9lQq1BCxpgxQ) 
 
