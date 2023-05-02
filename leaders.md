@@ -1,7 +1,8 @@
 ### Leaders
 
-* [Steve Kosten](mailto:steve.kosten@owasp.org)
-* [Aaron Cure](mailto:aaron.cure@owasp.org)
-* [Rob Jepson](mailto:rob.jepson@owasp.org)
 * [Tee Cure](mailto:tamara.cure@owasp.org)
+* [Lilli Chang](mailto:lilli.chang@owasp.org)
+* [Aaron Cure](mailto:aaron.cure@owasp.org)
+* [Steve Kosten](mailto:steve.kosten@owasp.org)
+
 
