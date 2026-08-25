@@ -22,15 +22,13 @@ Welcome to the OWASP Boulder chapter homepage!!
 
 Follow chapter news on [Meetup](https://www.meetup.com/OWASP-Boulder/) and [LinkedIn](https://www.linkedin.com/company/owasp-boulder)
 
-Join us on our [Slack Channel](https://join.slack.com/t/boulder-owasp/shared_invite/zt-d7noxlsj-TgOFn6ASwt9lQq1BCxpgxQ) 
+Join us on our [Slack Channel](https://join.slack.com/t/boulder-owasp/shared_invite/zt-47vg7z0jp-Z6KHTA7DM9zFM4f82DU3Xg) 
 
-The chapter board is 
+The chapter board is:
 
-* [Alex Brown (Chapter President)](mailto:alex.brown@owasp.org)
-* [Lilli Chang (Chapter Vice President)](mailto:lilli.chang@owasp.org)
-* [Tee Cure (Board Member)](mailto:tamara.cure@owasp.org)
-* [Aaron Cure (Board Member)](mailto:aaron.cure@owasp.org)
-* [Steve Kosten (Board Member)](mailto:steve.kosten@owasp.org)
+* [Lilli Chang](mailto:lilli.chang@owasp.org)
+* [Mark Hoopes](mailto:mark.hoopes@owasp.org)
+* [Stuart Small](mailto:stuart.small@owasp.org)
 
 
 ### Check our Upcoming Meetup Events:
