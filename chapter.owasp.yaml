@@ -1,0 +1,33 @@
+community:
+  - name: chapter-boulder
+    platform: slack
+    url: https://owasp.slack.com/archives/C081VJFGC
+leaders:
+  - name: Alex Brown
+    email: alex.brown@owasp.org
+  - name: Lilli Chang
+    email: lilli.chang@owasp.org
+  - name: Aaron Cure
+    email: aaron.cure@owasp.org
+    github: curea
+  - name: Chris Williams
+    email: chrisj.williams@owasp.org
+location:
+  country: USA
+  country_code: US
+  region: Colorado
+  city: Boulder
+  postal_code: '80302'
+  latitude: 40.0149856
+  longitude: -105.270545
+meetup_group: OWASP-Boulder
+name: OWASP Boulder
+repositories:
+  - name: www-chapter-boulder
+    url: https://github.com/OWASP/www-chapter-boulder
+    description: OWASP Foundation Web Repository
+tags:
+  - Boulder
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-boulder
